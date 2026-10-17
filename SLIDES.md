@@ -61,6 +61,8 @@ Then some reason and background.
 * https://www.thingiverse.com/
 * https://makerworld.com
 * https://bambulab.com
+* https://openscad.org/
+* https://www.freecad.org/
 
 ---
 
