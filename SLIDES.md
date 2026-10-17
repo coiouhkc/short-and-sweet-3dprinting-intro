@@ -60,6 +60,7 @@ Then some reason and background.
 * https://www.orcaslicer.com/
 * https://www.thingiverse.com/
 * https://makerworld.com
+* https://bambulab.com
 
 ---
 
